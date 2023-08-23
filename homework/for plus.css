@@ -1,0 +1,101 @@
+*{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+font-family: sans-serif;
+}
+.main{
+width: 2000px;
+height: 1000px;
+background: linear-gradient(45deg,green,yellow);
+padding-top: 150px;
+}
+.login{
+width: 350px;
+height: 300px;
+background-color: white;
+margin: auto;   
+padding: 30px;
+padding-top: 70px;
+}
+input{
+width:100%;
+height: 36px;
+border:0.5px solid darkgrey;
+margin-bottom: 30px;
+color:darkgrey;
+padding-left: 10px;
+background-color: transparent;
+}
+.btn{
+    width: 100%;
+height: 36px;
+background-color:yellowgreen;
+color: white;
+border: none;
+margin-bottom: 20px;
+}
+p{
+color: grey;
+font-size: small;
+font-weight: 100;
+}
+a{
+text-decoration: none;
+font-weight: 400;
+margin-left: 80px;
+}
+.john{
+    width: 2000px;
+    height: 1000px;
+    background-color: dodgerblue;
+    padding-top: 40px;
+    padding: 20px;
+    display: block;
+    margin: auto;
+}
+.rasm{
+    width: 200px;
+height: 200px;
+border-radius: 50%;
+display: block
+;
+margin: auto;
+
+}
+.actor{
+text-align: center;
+color: white;
+margin-top: 10px;
+margin-bottom: 40px;
+}
+.inp{
+width:300px;
+height: 36px;
+border-radius: 20px;
+text-align: center;
+color: black;
+font-size: small;
+font-weight: 800;
+margin-left: 850px;
+background-color: white;
+border: none;
+}
+.tugma{
+width: 300px;
+height: 36px;
+border-radius: 20px;
+text-align: center;
+color: white;
+background-color:#333;
+margin-left: 850px;
+border: none;
+margin-bottom: 30px;
+}
+.p{
+    text-align: center;
+    color: blue;
+    font-size: medium;
+    font-weight: 200;
+    margin-left: 10px;
+}

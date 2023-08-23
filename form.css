@@ -1,0 +1,23 @@
+*{
+margin:0;
+padding: 0;
+box-sizing: border-box;
+font-family: sans-serif;
+}
+.title{
+    color: red;
+    text-align: center;
+}
+.box{
+width: 150px;
+height: 100px;
+background-color: pink;
+margin-top: 50px;
+margin-left:100px;
+border: 2px solid red;
+padding-top: 20px;
+}
+.btn{
+margin: 50px;
+padding: 10px;
+}
